@@ -1,0 +1,22 @@
+PODS:
+  - FileBrowser (1.0.0)
+  - ZXingObjC (3.6.5):
+    - ZXingObjC/All (= 3.6.5)
+  - ZXingObjC/All (3.6.5)
+
+DEPENDENCIES:
+  - FileBrowser (~> 1.0)
+  - ZXingObjC (~> 3.6.4)
+
+SPEC REPOS:
+  trunk:
+    - FileBrowser
+    - ZXingObjC
+
+SPEC CHECKSUMS:
+  FileBrowser: 2ca91ff61c9ea09665eb3b8f9e64a7a77e66a0bf
+  ZXingObjC: fdbb269f25dd2032da343e06f10224d62f537bdb
+
+PODFILE CHECKSUM: 2b241779cb0139f058530474e649b918f21684b4
+
+COCOAPODS: 1.10.0
